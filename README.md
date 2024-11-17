@@ -31,7 +31,8 @@ But you MUST add credits to me or Swayzy
 5. Add your discord bot token
 6. Download mongodb community server (MUST BE THAT VERSION)
 7. Make a new connection, and enter the text from "MONGODB_DATABASE" in the URI
-8. Finally run the start.bat command to start your backend!
+8. To make the backend work you have to go to the file setup.bat and run it
+9. Finally run the start.bat command to start your backend!
 
 Extra Step,
 If you wanna remove all traces of ember ingame. Edit the DefaultGame.ini, and replace all the text containing ember, and either replace it or remove it
