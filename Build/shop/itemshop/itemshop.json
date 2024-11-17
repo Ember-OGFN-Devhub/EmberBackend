@@ -1,0 +1,57 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_155_Jellyfish"
+    ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_392_Hostile"
+    ],
+    "price": 500
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaItemWrap:Wrap_096_Zodiac"
+    ],
+    "price": 300
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaGlider:Glider_MiG"
+    ],
+    "price": 500
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_075_Huya"
+    ],
+    "price": 800
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaMusicPack:MusicPack_011_GetFunky"
+    ],
+    "price": 300
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_413_Athena_Commando_M_StreetDemon"
+    ],
+    "price": 1200
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"
+    ],
+    "price": 1200
+  },
+  "featured3": {
+    "itemGrants": [
+      "AthenaCharacter:CID_281_Athena_Commando_F_SnowBoard"
+    ],
+    "price": 1500
+  }
+}
